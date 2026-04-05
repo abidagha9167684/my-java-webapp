@@ -3,7 +3,7 @@
     <title>My Java Web App</title>
 </head>
 <body>
-    <h1>Hello Abid</h1>
-    <h2>This is my simple Java web application</h2>
+    <h1>Hello Abid - CI/CD Success</h1>
+    <h2>Deployed by GitHub Actions + Jenkins + Tomcat</h2>
 </body>
 </html>
